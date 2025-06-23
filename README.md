@@ -83,7 +83,7 @@ Login as Admin or Customer
 
 ## 🖼 Screenshots
 
- <img src="pic.jpg" width="200" alt="Salman Ahmed">
+ <img src="p4.png" width="200" alt="Salman Ahmed">
 
 ---
 
